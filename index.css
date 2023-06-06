@@ -1,0 +1,78 @@
+body {
+    background-image: url("peakpx.jpg");
+    overflow-y: auto;
+    margin: 0px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+#connect-button {
+    background-color: goldenrod;
+    position: relative;
+    top: 0px;
+    left: 900px;
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#connect-button:hover {
+    background-color: black;
+    color: white;
+}
+#ethAmount {
+    position: relative;
+    top: 4px;
+    left: 600px;
+    height: 40px;
+    width: 600px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#fund-button {
+    background-color: goldenrod;
+    position: relative;
+    top: 10px;
+    left: 900px;
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#fund-button:hover {
+    background-color: green;
+    color: aqua;
+}
+#balance-button {
+    background-color: goldenrod;
+    position: relative;
+    top: 30px;
+    left: 600px;
+    height: 40px;
+    width: 230px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#withdraw-button {
+    background-color: goldenrod;
+    position: relative;
+    top: 20px;
+    left: 900px;
+    height: 40px;
+    width: 230px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#balance-button:hover {
+    background-color: blue;
+    color: bisque;
+}
+#withdraw-button:hover {
+    background-color: red;
+    color: azure;
+}
