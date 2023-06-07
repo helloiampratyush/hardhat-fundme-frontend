@@ -11,4 +11,4 @@ after filling the amount in the box you have to click on the fund button ..
 ## step3
 now you can see the balance of contract in console after clicking balance button.
 ## step4
-right now this contract is owner only withdraw so you cannot withdraw..
+after clicking the withdraw button you can collect your funding amount
